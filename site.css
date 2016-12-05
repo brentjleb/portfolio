@@ -1,0 +1,39 @@
+.navbar-default {
+	border: none;
+}
+
+.bgimage {
+	background-image: url('../images/pcman.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fluid;
+	background-size: cover;
+	height: 400px;
+}
+
+h2 {
+	color: white;
+}
+
+.navbar {
+	position: float;
+	min-height: 50px;
+	margin-bottom: 0px;
+}
+
+.row {
+	text-align: center;
+}
+
+.thanks {
+	text-align: center;
+}
+
+.bgimage2 {
+	background-image:  url('../images/multicir.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fluid;
+	background-size: cover;
+	height: 200px;
+}
